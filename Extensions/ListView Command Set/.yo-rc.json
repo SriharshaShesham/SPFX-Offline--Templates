@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.10.0",
+    "libraryName": "listview-command-set",
+    "libraryId": "3ac33f5a-568c-4b50-ac0f-367aaae1b684",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "library"
+  }
+}

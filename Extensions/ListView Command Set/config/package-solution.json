@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "listview-command-set-client-side-solution",
+    "id": "3ac33f5a-568c-4b50-ac0f-367aaae1b684",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/listview-command-set.sppkg"
+  }
+}
